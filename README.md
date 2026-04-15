@@ -1,22 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Guilarte Correa</h1>
 <h3 align="center">A passionate frontend developer from Cuba</h3>
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> <h3 align="left">Connect with me: +53 59591266</h3>
 
 > [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+> 🌱 I’m currently learning **React , Typescript.
 
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
 
-> [!CAUTION]
-> Negative potential consequences of an action.
-- 🌱 I’m currently learning **React , Typescript**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

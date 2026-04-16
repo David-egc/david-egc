@@ -7,7 +7,7 @@
 > [!IMPORTANT]  
 > 🌱 I’m currently learning **React , Typescript.
 
-
+![Drupal.org Member](https://img.shields.io/badge/Drupal.org-Member-blue?logo=drupal)
 <p align="left">
 </p>
 
